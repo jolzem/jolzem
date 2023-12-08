@@ -30,4 +30,4 @@ I'm Johannes
 - 📄 Check out my [research paper](https://github.com/jolzem/jolzem.github.io/blob/main/facharbeit.pdf) on Debian Linux for a school project.
 
 ## Connect with me
-- 🌐 Explore more on my [personal website](http://jolzem.port0.org).
+- 🌐 Explore more on my [personal website](https://jolzem.com/).

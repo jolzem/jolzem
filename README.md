@@ -1,33 +1,41 @@
-# Hey there! 👋
-
-I'm Johannes
-
-## About Me
+```bash
+jolzem@github:~$ whoami
+Johannes Olzem
 - 🌐 Born and raised in Germany
-- 📚 Majoring in IT and English
-- 💻 Like exploring Linux, servers, and online privacy
-- 🕹️ Enjoy video games and 3D Printing
+- 📚 IT and English Major
+- 💻 Likes exploring Linux, servers, and online privacy
+- 💾 Selfhosting enthusiast, Free-Software advocate
+- 🕹️ Video games and 3D printing
 
-## Skills
-### Languages
-- HTML & CSS
-- Java
-- Basic Python
-- Basic PHP
+jolzem@github:~$ top -b
+PID USER    COMMAND
+453 jolzem  html-css
+453 jolzem  java
+453 jolzem  python3
+453 jolzem  php --basic
 
-### Other Technologies
-- Linux
-- Git
-- SQL
-- LaTeX
-- Docker
+jolzem@github:~$ df -H
+Filesystem Mounted on
+Linux      /
+Git        /bin
+SQL        /var/db/sql
+LaTeX      /home/jolzem/Documents
+Docker     /var/run/docker.sock
 
-## Projects
-- **[CineTrack](https://github.com/jolzem/cinetrack)**: A self-hosted movie and series tracking service in PHP and SQL.
+jolzem@github:~$ ls -l Projects/
+total 3
+```
+[`CineTrack/`](https://github.com/jolzem/cinetrack)`      Self-Hosted movie and series tracking service`
 
-- **[starttree.sh](https://github.com/jolzem/starttree.sh)**: A dynamically generated browser startpage created using HTML, CSS, and Python
+[`starttree.sh/`](https://github.com/jolzem/starttree.sh)`   Dynamically generated browser startpage`
 
-- 📄 Check out my [research paper](https://github.com/jolzem/jolzem.github.io/blob/main/facharbeit.pdf) on Debian Linux for a school project.
+[`research-paper/`](https://github.com/jolzem/jolzem.github.io/blob/main/facharbeit.pdf)` Debian Linux, an OS for everyone?`
 
-## Connect with me
-- 🌐 Explore more on my [personal website](https://jolzem.com/).
+```
+jolzem@github:~$ ip a
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    inet 127.0.0.1/8 scope host lo
+2: eth0: <MULTICAST,UP> mtu 1500 qdisc state UP group default qlen 1000
+```
+
+`   inet `[`jolzem.com`](https://jolzem.com)` scope global`

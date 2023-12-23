@@ -10,9 +10,9 @@ Johannes Olzem
 jolzem@github:~$ top -b
 PID USER    COMMAND
 453 jolzem  html-css
-453 jolzem  java
-453 jolzem  python3
-453 jolzem  php --basic
+581 jolzem  java
+292 jolzem  python3
+749 jolzem  php --basic
 
 jolzem@github:~$ df -H
 Filesystem Mounted on

@@ -1,1 +1,1 @@
-# Please find all my repositories on [git.jolzem.com/jolzem](https://git.jolzem.com/jolzem/)
+# Please find all my repositories on [git.olzem.org/jolzem](https://git.olzem.org/jolzem/)
